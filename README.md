@@ -42,8 +42,8 @@ engineering evaluation, and portfolio presentation purposes.
 ## Installation & how to use
 - Clone the repository
 - Open the main folder in MATLAB
-- Run ARTS.mlapp (wait until the initialization process has finished, which will be indicated by the following infobox message: see screenshot)
-<img src="images/ARTS_init.png" width="500">
+- Run ARTS.mlapp (wait until the initialization process has finished, which will be indicated by the following infobox message: see screenshot) <br>
+<img src="images/ARTS_init.png" width="500"> <br>
 - Set up a Simulation (see the added screenshot for reference)
 1. Select a point on the terrain map from which the noise emission shall occur
 2. Update the input data according to the point selected in the previous step
@@ -52,11 +52,11 @@ engineering evaluation, and portfolio presentation purposes.
 <img src="images/ARTS_select_Pos_Nums.png" width="500">
 
 ## Project structure
-/SRC – Protected source code
-/docs – Documentation/Screenshots
-/geodata - Input terrain data
-/input - Input data for basic demo
-ARTS.mlapp - Main app
+/SRC – Protected source code <br>
+/docs – Documentation/Screenshots <br>
+/geodata - Input terrain data <br>
+/input - Input data for basic demo <br>
+ARTS.mlapp - Main app <br>
 
 ## Requirements
 - MATLAB R2025b or newer (older versions might work as well)
