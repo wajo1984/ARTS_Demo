@@ -64,22 +64,22 @@ ARTS.mlapp - Main app
 - Parallel Computing Toolbox
 
 ## Screenshots
-- The following screenshots show example results for different simulation settings
--- Setting: AOC = 0 deg ; Power setting = 75 %
+- The following screenshots show example results for different simulation settings <br>
+-- Setting: AOC = 0 deg ; Power setting = 75 % <br>
 <img src="images/Test_AOC_0deg_Pwr_75prc.png" width="500">
--- Setting: AOC = 0 deg ; Power setting = 100 %
+-- Setting: AOC = 0 deg ; Power setting = 100 % <br>
 <img src="images/Test_AOC_0deg_Pwr_100prc.png" width="500">
--- Setting: AOC = 25 deg ; Power setting = 75 %
+-- Setting: AOC = 25 deg ; Power setting = 75 % <br>
 <img src="images/Test_AOC_25deg_Pwr_75prc.png" width="500">
--- Setting: AOC = 25 deg ; Power setting = 100 %
+-- Setting: AOC = 25 deg ; Power setting = 100 % <br>
 <img src="images/Test_AOC_25deg_Pwr_100prc.png" width="500">
 
 ## Reference
-[1] J. Walter. Fluglärmsimulation mit Hilfe von Ray-Tracing unter Berücksichtigung von Gelände und Wetterdaten. Technische Hochschule Intolstadt, 2019. Master Thesis
-[2] M. Heidmann. Interim Prediction Method for Fan and Compressor Source Noise. NASA Technical Memorandum, 1979
-[3] M. Lighthill. On sound generated aerodynamically - I. General theory. The University Manchester, 1952
-[4] Wikipedia. Turbo-Union RB199. Website. https://en.wikipedia.org/wiki/Turbo-Union_RB199#cite_ref-Taylor610_13-2
-[5] OpenTopography. Website. https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3
+[1] J. Walter. Fluglärmsimulation mit Hilfe von Ray-Tracing unter Berücksichtigung von Gelände und Wetterdaten. Technische Hochschule Intolstadt, 2019. Master Thesis <br>
+[2] M. Heidmann. Interim Prediction Method for Fan and Compressor Source Noise. NASA Technical Memorandum, 1979 <br>
+[3] M. Lighthill. On sound generated aerodynamically - I. General theory. The University Manchester, 1952 <br>
+[4] Wikipedia. Turbo-Union RB199. Website. https://en.wikipedia.org/wiki/Turbo-Union_RB199#cite_ref-Taylor610_13-2 <br>
+[5] OpenTopography. Website. https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3 <br>
 
 ## Contact
 Johannes Walter <br>
