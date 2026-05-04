@@ -4,7 +4,7 @@ High-fidelity aircraft noise simulation using dynamic acoustic ray tracing, atmo
 ## Description
 This is a demo for a noise simulation program, based on my Master Thesis of aircraft noise prediction [1].
 
-It provides the posibility to conduct a noise simulation with dynamic source noise calculation, 
+It provides the possibility to conduct a noise simulation with dynamic source noise calculation, 
 the propagation through the atmosphere and the immission on terrain. In contrast to the full simulation,
 the demo will provide just a single step simulation in order to keep the run time reasonably short.
 
@@ -20,9 +20,9 @@ simulation and acoustic ray tracing methods. It is intended for research,
 engineering evaluation, and portfolio presentation purposes.
 
 ## Main functionality
-- Dynamic source noise calculation with respect to engine power setting and attitude of the aircraft
+- Dynamic source noise calculation with respect to engine power setting and air speed
 - Emission model based on distance to terrain and attitude of aircraft with a variable number of emitted rays in order to achieve a constant ray density
-- Transmission model based on acoustic ray tracing propagation with respect to atmospheric properties (temperature and wind profile) for sound refraction and dynamic cut-off conditions
+- Transmission model based on acoustic ray tracing propagation with respect to atmospheric properties (temperature and wind profile) for sound refraction, attenuation and dynamic cut-off conditions
 - Immission model with respect to terrain elevation for dynamic immission detection and sound shielding
 
 ## Technical detail
